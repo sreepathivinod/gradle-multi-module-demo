@@ -1,0 +1,6 @@
+
+dependencies {
+    
+    // Include common project
+    implementation project(':common-module')
+}

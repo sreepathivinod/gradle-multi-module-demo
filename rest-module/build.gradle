@@ -1,0 +1,8 @@
+dependencies {
+       
+    // Include common project
+    implementation project(':common-module')
+    
+    // Include service project
+    implementation project(':service-module')
+}
